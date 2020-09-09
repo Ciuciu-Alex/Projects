@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    font-size: 16px;
+}
+.navbar{
+    padding: 0px;
+}
+p, h1, h2, h3, h4, h5, h6, ul {
+    margin: 0px;
+    padding: 0px;
+}
+ul li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+button {
+    background-color: initial;
+    border: none;
+    &:focus {
+        outline: none;
+    }
+}
+img{
+    margin: 0px;
+    padding: 0px;
+}
